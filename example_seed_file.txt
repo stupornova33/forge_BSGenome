@@ -1,0 +1,19 @@
+Package: BSGenome.Dsimulans.NCBI.3.1.fa	
+Title: Full genome sequences for Drosophila simulans (NCBI v. 3.1)
+Version: 1.0.0
+Description: Full genome sequences for Drosophila simulans as provided by
+        NCBI. This is a DNA string set and was compiled using BSGenome.
+Author: Taiya Jarva
+Maintainer: Taiya Jarva <t.m.jarva13@gmail.com>
+organism: Drosophila simulans
+common_name: D.simulans
+provider: NCBI
+genome: GCF_016746395.2
+release_date: 10/2021
+source_url: https://www.ncbi.nlm.nih.gov/assembly/GCF_016746395.2	
+organism_biocview: Drosophila_simulans
+BSgenomeObjname: Dsimulans
+SrcDataFiles: GCF_016746395.2.sorted.2bit
+circ_seqs: character(0)
+seqs_srcdir: C:/Users/tjarva/Desktop/RTestFiles/
+seqfile_name:GCF_016746395.2.sorted.2bit
